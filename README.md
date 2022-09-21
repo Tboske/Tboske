@@ -1,21 +1,25 @@
-<h1 align="center">Portfolio</h1>
+  GNU nano 6.4                                                                   portfolio.md                                                                              <h1 align="center">Portfolio</h1>
 <table>
     <tr>
         <td>
             <h2 align="center">Introduction</h2>
-            <b>> Name: &emsp;           Jeff De Meutter</b></br>
-            <b>> Gender: &ensp;         Male</b></br>
-            <b>> Age: &emsp;&emsp;&nbsp;22</b></br>
-            <b>> Born: &emsp;&ensp;&nbsp;Belgium
+            <b>> Name: &emsp;&emsp;           Jeff De Meutter</b></br>
+            <b>> Gender: &emsp;&nbsp;         Male</b></br>
+            <b>> Age: &emsp;&emsp;&emsp;&nbsp;22</b></br>
+            <b>> Born: &emsp;&emsp;&ensp;&nbsp;Belgium</b></br>
+            <b>> Language: &nbsp;Dutch, English</b></br>
         </td>
         <td>
-            <h2></h2>
+            <h2 align="center"></h2>
         </td>
     </tr>
     <tr>
         <td>
             <h2 align="center">Studies</h2>
-            <b></b>
+            <b>Ongoing: Digital Arts & Entertainement</b></br>
+            Howest - Kortrijk, Belgium</br>
+            <b>Finished: IT Management</b></br>
+            MiniemenInstituut - Leuven, Belgium</br>
         </td>
         <td>
             <img alt="Photo" src="./image.jpg" />
@@ -32,3 +36,7 @@
         </td>
     </tr>
 </table>
+
+
+
+
