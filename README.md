@@ -20,7 +20,8 @@
     <tr>
         <td rowspan="2">
             <h2 align="center">Experiences</h2>
-            <b>> <a href="https://discool.itch.io/discool">Discool</a></b>
+            <b>> <a href="https://discool.itch.io/discool">Discool</a></b></br>
+            &emsp;&emsp;My first group project I have done. I was one of the two programmers. In Discool I mainly worked on the parallax effect, generation of the buildings, the combo system and some smaller feautures.
         </td>
         <td>
             <img alt="Photo" src="./Images/Jeff.png" style="float:right" />
