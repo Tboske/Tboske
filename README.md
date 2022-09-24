@@ -6,7 +6,7 @@
             <b>Ongoing: Digital Arts & Entertainement</b></br>
             &emsp;&emsp;Howest - Kortrijk, Belgium</br>
             <b>Finished: IT Management</b></br>
-            &emsp;&emsp;MiniemenInstituut - Leuven, Belgium</br>
+            &emsp;&emsp;MiniemenInstituut - Leuven, Belgium</br></br>
         </td>
         <td>
             <h2 align="center">About Me</h2>
