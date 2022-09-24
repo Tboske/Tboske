@@ -22,7 +22,7 @@
             MiniemenInstituut - Leuven, Belgium</br>
         </td>
         <td>
-            <img alt="Photo" src="./Images/Jeff.png" />
+            <img alt="Photo" src="./Images/Jeff.png" style="float:right" />
         </td>
     </tr>
     <tr>
