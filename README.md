@@ -2,7 +2,7 @@
 <table>
     <tr>
         <td>
-            <h2 align="center">Introduction</h2>
+            <h2 align="center">About Me</h2>
             <b>> Name: &emsp;&emsp;           Jeff De Meutter</b></br>
             <b>> Gender: &emsp;&nbsp;         Male</b></br>
             <b>> Age: &emsp;&emsp;&emsp;&nbsp;22</b></br>
