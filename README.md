@@ -10,7 +10,7 @@
             <b>> Language: &nbsp;Dutch, English</b></br>
         </td>
         <td>
-            <h2 align="center">Studies</h2>
+            <h2 align="center" style="vertical-align:top">Studies</h2>
             <b>Ongoing: Digital Arts & Entertainement</b></br>
             &emsp;&emsp;Howest - Kortrijk, Belgium</br>
             <b>Finished: IT Management</b></br>
