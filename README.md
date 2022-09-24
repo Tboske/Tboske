@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio</h1>
+<h1 align="center">Jeff De Meutter</h1>
 <table>
     <tr>
         <td>
@@ -10,7 +10,6 @@
         </td>
         <td>
             <h2 align="center">About Me</h2>
-            <b>> Name: &emsp;&emsp;           Jeff De Meutter</b></br>
             <b>> Gender: &emsp;&nbsp;         Male</b></br>
             <b>> Age: &emsp;&emsp;&emsp;&nbsp;22</b></br>
             <b>> Born: &emsp;&emsp;&ensp;&nbsp;Belgium</b></br>
@@ -21,7 +20,7 @@
         <td rowspan="2">
             <h2 align="center">Experiences</h2>
             <b>> <a href="https://discool.itch.io/discool">Discool</a></b></br>
-            My first group project I have done. I was one of the two programmers. In Discool I mainly worked on the parallax effect, generation of the buildings, the combo system and some smaller feautures.</br>
+            My first group project I have done. I was one of the two programmers that worked on this Unity project. In Discool I mainly worked on the parallax effect, generation of the buildings, the combo system and some smaller feautures.</br>
             <b>> <a href="https://github.com/Tboske/TribeEngine/tree/rework">TribeEngine</a></b></br>
             This is a custom engine that I wrote myself using SDL2 and opengl. I also have remade Tron arcade in Tribe. </br>
             <b>> <a href="https://github.com/Tboske/ComSync">ComSync</a></b></br>
@@ -41,5 +40,3 @@
         </td>
     </tr>
 </table>
-
-
