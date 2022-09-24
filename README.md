@@ -2,22 +2,19 @@
 <table>
     <tr>
         <td>
+            <h2 align="center">About Me</h2>
+            My name is Jeff, I'm 22 years old and a Game Development student at Howest - DAE
+        </td>
+        <td colspan="2">
             <h2 align="center">Studies</h2>
             <b>Ongoing: Digital Arts & Entertainement</b></br>
             &emsp;&emsp;Howest - Kortrijk, Belgium</br>
             <b>Finished: IT Management</b></br>
             &emsp;&emsp;MiniemenInstituut - Leuven, Belgium</br>
         </td>
-        <td>
-            <h2 align="center">About Me</h2>
-            <b>> Gender: &emsp;&nbsp;         Male</b></br>
-            <b>> Age: &emsp;&emsp;&emsp;&nbsp;22</b></br>
-            <b>> Born: &emsp;&emsp;&ensp;&nbsp;Belgium</b></br>
-            <b>> Language: &nbsp;Dutch, English</b></br>
-        </td>
     </tr>
     <tr>
-        <td rowspan="2">
+        <td rowspan="2" colspan="2">
             <h2 align="center">Experiences</h2>
             <b>> <a href="https://discool.itch.io/discool">Discool</a></b></br>
             My first group project I have done. I was one of the two programmers that worked on this Unity project. In Discool I mainly worked on the parallax effect, generation of the buildings, the combo system and some smaller feautures.</br>
