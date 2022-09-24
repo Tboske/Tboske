@@ -10,7 +10,8 @@
         </td>
         <td>
             <h2 align="center">About Me</h2>
-            My name is Jeff, I'm 22 years old and a Game Development student at Howest - DAE. 
+            My name is Jeff, I'm 22 years old and a Game Development student at Howest - DAE.</br>
+            In my free time I mainly train (<a href="https://en.wikipedia.org/wiki/Schutzhund#:~:text=Schutzhund%20(%2F'%CA%83%CA%8Atsh%CA%8Ant%2F%2C%20German%20for,of%20a%20good%20working%20dog.">IGP</a>) with my dog. Other than that I also put a lot of work in detailing my car.
         </td>
     </tr>
     <tr>
