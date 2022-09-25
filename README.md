@@ -33,7 +33,7 @@
     <tr>
         <td>
             <h2 align="center">Contact</h2>
-            <b>Mail: jeffke.de.meutter@gmail.com</b>
+            <b>Mail: jeffke.de.meutter@gmail.com</b></br>
             <b>Phone: +3298140520</b>
         </td>
     </tr>
