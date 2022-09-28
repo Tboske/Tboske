@@ -24,7 +24,7 @@
             <b>> <a href="https://github.com/Tboske/ComSync">ComSync</a></b></br>
             Here I played around with some networking using boost::asio. Use of UDP and TCP to send packages to other local pc's.</br></br>
             <b>> <a href="https://github.com/Tboske/Tribe2.0">Tribe2.0</a> WIP</b></br>
-            This is/will be the successor to TribeEngine but I work on this in my free time. There were just some things I didn't like from the old version that I wish i could've rewrote. This Engine uses GLFW (instead of SDL2) with opengl. I am aiming to also include Vulkan into this project.
+            This is/will be the successor to TribeEngine but I work on this in my free time. There were just some things I didn't like from the old version that I wish i could've rewrote. This Engine uses GLFW (instead of SDL2) with opengl. I am also aiming to include Vulkan into this project.
         </td>
         <td>
             <img alt="Photo" src="./Images/Jeff.png" style="float:right" />
