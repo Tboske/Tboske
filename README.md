@@ -20,7 +20,7 @@
             <b>> <a href="https://discool.itch.io/discool">Discool</a></b></br>
             My first group project I have done. I was one of the two programmers that worked on this Unity project. In Discool I mainly worked on the parallax effect, generation of the buildings, the combo system and some smaller feautures.</br></br>
             <b>> <a href="https://github.com/Tboske/TribeEngine/tree/rework">TribeEngine</a></b></br>
-            This is a custom engine that I wrote myself using SDL2 and opengl. I also have remade Tron arcade in Tribe. </br></br>
+            This is a custom engine designed by me using SDL2 and opengl. I also have remade Tron arcade in Tribe. </br></br>
             <b>> <a href="https://github.com/Tboske/ComSync">ComSync</a></b></br>
             Here I played around with some networking using boost::asio. Use of UDP and TCP to send packages to other local pc's.</br></br>
             <b>> <a href="https://github.com/Tboske/Tribe2.0">Tribe2.0</a> WIP</b></br>
