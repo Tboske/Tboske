@@ -16,7 +16,7 @@
     </tr>
     <tr>
         <td rowspan="2">
-            <h2 align="center">Experiences</h2>
+            <h2 align="center">Projects</h2>
             <b>> <a href="https://discool.itch.io/discool">Discool</a></b></br>
             My first group project I have done. I was one of the two programmers that worked on this Unity project. In Discool I mainly worked on the parallax effect, generation of the buildings, the combo system and some smaller feautures.</br></br>
             <b>> <a href="https://github.com/Tboske/TribeEngine/tree/rework">TribeEngine</a></b></br>
