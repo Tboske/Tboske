@@ -51,7 +51,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td colspan="3">
             <h2 align="center">Contact</h2>
             <b>Mail: jeffke.de.meutter@gmail.com</b></br>
             <b>Phone: +3298140520</b>
