@@ -31,16 +31,14 @@
             <b>> c#</b></br>
             <b>> Unity</b></br>
             <b>> Cmake</b></br>
-            <b>> </b></br>
-            <b>> </b></br>
+            <b>> </b>
         </td>
         <td>
             <h2 align="center">Soft Skills</h2>
-            <b>> </b></br>            
-            <b>> </b></br>            
-            <b>> </b></br>            
-            <b>> </b></br>            
-            <b>> </b></br>            
+            <b>> Cooperation</b></br>            
+            <b>> Communicative</b></br>            
+            <b>> Adaptibility</b></br>            
+            <b>> Resilience</b>        
         </td>
         <td>
             <h2 align="center">Studies</h2>
@@ -53,8 +51,9 @@
     <tr>
         <td colspan="3">
             <h2 align="center">Contact</h2>
-            <b>Mail: jeffke.de.meutter@gmail.com</b></br>
-            <b>Phone: +3298140520</b>
+            <b>Mail: jeffke.de.meutter@gmail.com</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            <b>Phone: +3298140520</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            <b><a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit">LinkedIn</a></b>
         </td>
     </tr>
 </table>
