@@ -4,7 +4,7 @@
         <td rowspan="2" colspan="2">
             <h2 align="center">Projects</h2>
             <b>> <a href="https://github.com/Tboske/TribeEngine/tree/rework">TribeEngine</a></b></br>
-            This is a custom engine designed by me using SDL2 and opengl. I also have remade Tron arcade in Tribe. </br></br>
+            This is a custom engine designed by me using SDL2 and opengl. I have remade Tron arcade in Tribe. </br></br>
             <b>> <a href="https://discool.itch.io/discool">Discool</a></b></br>
             My first group project I have done. I was one of the two programmers that worked on this Unity project. In Discool I mainly worked on the parallax effect, generation of the buildings, the combo system and some smaller feautures.</br></br>
             <b>> <a href="https://github.com/Tboske/HierarchicalStateMachine">Hierarchical State Machine</a></b></br>
@@ -18,7 +18,7 @@
         <td>
             <h2 align="center">About Me</h2>
             I'm 22 years old and a Game Development student at Howest - DAE.</br>
-            In my free time I mainly train (<a href="https://en.wikipedia.org/wiki/Schutzhund#:~:text=Schutzhund%20(%2F'%CA%83%CA%8Atsh%CA%8Ant%2F%2C%20German%20for,of%20a%20good%20working%20dog." target="_blank">IGP</a>) with my dog. Other than that I also put a lot of work in detailing my car.
+            In my free time I mainly train (<a href="https://en.wikipedia.org/wiki/Schutzhund#:~:text=Schutzhund%20(%2F'%CA%83%CA%8Atsh%CA%8Ant%2F%2C%20German%20for,of%20a%20good%20working%20dog." target="_blank">IGP</a>) with my dog. Other than that, I do some detailing and maintenance on my car.
         </td>
     </tr>
     <tr>
