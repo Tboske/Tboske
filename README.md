@@ -18,7 +18,7 @@
         <td>
             <h2 align="center">About Me</h2>
             I'm an aspiring c++ developer and currently a Game Development student at Howest - DAE.</br>
-            In my free time I mainly train (<a href="https://en.wikipedia.org/wiki/Schutzhund#:~:text=Schutzhund%20(%2F'%CA%83%CA%8Atsh%CA%8Ant%2F%2C%20German%20for,of%20a%20good%20working%20dog." target="_blank">IGP</a>) with my dog. Other than that, I do some detailing and maintenance on my car.
+            In my free time I mainly train (<a href="https://en.wikipedia.org/wiki/Schutzhund#:~:text=Schutzhund%20(%2F'%CA%83%CA%8Atsh%CA%8Ant%2F%2C%20German%20for,of%20a%20good%20working%20dog." target="_blank">IGP</a>) with my dog. I occasionally go karting with friends. I also enjoy doing road trips into the unknown. Other than that, I do some detailing and maintenance on my car.
         </td>
     </tr>
     <tr>
