@@ -8,7 +8,7 @@
             <b>> <a href="https://discool.itch.io/discool">Discool</a></b></br>
             This was my first group project. I was one of the two programmers that worked on this Unity project. In Discool I mainly worked on the parallax effect, generation of the buildings, the combo system and some smaller feautures.</br></br>
             <b>> <a href="https://github.com/Tboske/HierarchicalStateMachine">Hierarchical State Machine</a></b></br>
-            One of my school assignments, where I researched hierarchal state machines and implemented them.</br></br>
+            One of my school assignments, where I researched Hierarchical State Machines and implemented it.</br></br>
             <b>> <a href="https://github.com/Tboske/ComSync">ComSync</a></b></br>
             Here I played around with some networking using boost::asio. Use of UDP and TCP to send packages to other local pc's.</br></br>
             <b>> <a href="https://github.com/Tboske/Tribe2.0">Tribe2.0</a> WIP</b></br>
