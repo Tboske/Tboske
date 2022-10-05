@@ -55,7 +55,7 @@
         <td colspan="3">
             <h2 align="center">Contact</h2>
             <b>Mail: jeffke.de.meutter@gmail.com</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-            <b>Phone: +32 498/14.05.20</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            <b>Phone: +32 498/140 520</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
             <b><a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit">LinkedIn</a></b>
         </td>
     </tr>
