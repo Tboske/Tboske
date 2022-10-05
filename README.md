@@ -6,7 +6,7 @@
             <b>> <a href="https://github.com/Tboske/TribeEngine/tree/rework">TribeEngine</a></b></br>
             This is a custom engine designed by me using SDL2 and opengl. I have remade Tron arcade in Tribe. </br></br>
             <b>> <a href="https://discool.itch.io/discool">Discool</a></b></br>
-            My first group project I have done. I was one of the two programmers that worked on this Unity project. In Discool I mainly worked on the parallax effect, generation of the buildings, the combo system and some smaller feautures.</br></br>
+            This was my first group project. I was one of the two programmers that worked on this Unity project. In Discool I mainly worked on the parallax effect, generation of the buildings, the combo system and some smaller feautures.</br></br>
             <b>> <a href="https://github.com/Tboske/HierarchicalStateMachine">Hierarchical State Machine</a></b></br>
             One of my school assignments, where I researched hierarchal state machines and implemented them.</br></br>
             <b>> <a href="https://github.com/Tboske/ComSync">ComSync</a></b></br>
