@@ -10,7 +10,7 @@
             <b>> <a href="https://github.com/Tboske/ComSync">ComSync</a></b></br>
             Here I played around with some networking using boost::asio. Use of UDP and TCP to send packages to other local pc's.</br></br>
             <b>> <a href="https://github.com/Tboske/Tribe2.0">Tribe2.0</a> WIP</b></br>
-            This is the successor to TribeEngine, which i work on in my free time. It's a complete redesign with a different set of libraries. 
+            This is the successor to TribeEngine, which I work on in my free time. It's a complete redesign with a different set of libraries. 
             Here I use GLFW instead of SDL2. I have implemented Vulkan before, but now I am aiming to include that in this engine aswell.
         </td>
         <td>
@@ -31,28 +31,29 @@
             <b>> c#</b></br>
             <b>> Unity</b></br>
             <b>> Cmake</b></br>
-            <b>> </b>
+            <b>> Python</b>
         </td>
         <td>
             <h2 align="center">Soft Skills</h2>
             <b>> Cooperation</b></br>            
             <b>> Communicative</b></br>            
             <b>> Adaptibility</b></br>            
-            <b>> Resilience</b>        
+            <b>> Resilience</b></br>
+            <b>> tidiness</b></br>
         </td>
         <td>
             <h2 align="center">Studies</h2>
             <b>Ongoing: Digital Arts & Entertainement</b></br>
-            &emsp;&emsp;Howest - Kortrijk, Belgium</br>
+            &emsp;&emsp;Howest - Kortrijk, Belgium</br></br>
             <b>Finished: IT Management</b></br>
-            &emsp;&emsp;MiniemenInstituut - Leuven, Belgium</br></br>
+            &emsp;&emsp;MiniemenInstituut - Leuven, Belgium</br>
         </td>
     </tr>
     <tr>
         <td colspan="3">
             <h2 align="center">Contact</h2>
-            <b>Mail: jeffke.de.meutter@gmail.com</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-            <b>Phone: +3298140520</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            <b>Mail: jeffke.de.meutter@gmail.com</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            <b>Phone: +32 498/14.05.20</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
             <b><a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit">LinkedIn</a></b>
         </td>
     </tr>
