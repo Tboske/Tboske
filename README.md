@@ -41,7 +41,7 @@
             <b>> Communicative</b></br>            
             <b>> Adaptibility</b></br>            
             <b>> Resilience</b></br>
-            <b>> tidiness</b></br>
+            <b>> Tidiness</b></br>
         </td>
         <td>
             <h2 align="center">Studies</h2>
