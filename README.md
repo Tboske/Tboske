@@ -33,7 +33,7 @@
             <b>> c#</b></br>
             <b>> Unity</b></br>
             <b>> Cmake</b></br>
-            <b>> Python</b>
+            <b>> Linux</b>
         </td>
         <td>
             <h2 align="center">Soft Skills</h2>
